@@ -73,14 +73,10 @@ h1, h2, h3, h4, p {
 
 #gift-img-genius:hover {
     background-image: url("drake-genius.gif");
-    max-width: 75%;
-    height: 50%;
 }
 
 #gift-img-masterchef:hover {
     background-image: url("masterchef-graham-elliot.gif");
-    max-width: 75%;
-    height: 50%;
 }
 
 #gift-img-birthdaycake:hover {
