@@ -77,12 +77,6 @@ h1, h2, h3, h4, p {
     height: 600px;
 }
 
-#gift-img-masterchef:hover {
-    background-image: url("masterchef-graham-elliot.gif");
-    max-width: 1000px;
-    height: 600px;
-}
-
 #gift-img-birthdaycake:hover {
     background-image: url("birthdaycake.gif");
     height: 500px;
